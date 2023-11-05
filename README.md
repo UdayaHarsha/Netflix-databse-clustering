@@ -31,7 +31,7 @@ Listed_in : Genere
 
 Description: The Summary description
 
-##Conclusion:
+## Conclusion:
 In this project, we tackled a text clustering issue where we had to categorize Netflix shows into specific clusters such that the shows within a cluster are similar to one another and the shows in different clusters are dissimilar to one another.
 
 We delt with missing values and duplicated values in the data.
